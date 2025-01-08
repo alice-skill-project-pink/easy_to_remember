@@ -1,0 +1,5 @@
+fuzzywuzzy
+python-Levenshtein
+mysql-connector-python
+transformers 
+nltk
